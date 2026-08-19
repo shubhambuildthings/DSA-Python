@@ -11,6 +11,3 @@ class Solution:
                 result[c][r] = matrix[r][c]
 
         return result
-
-matrix = [[1,2,3],[4,5,6],[7,8,9]]
-print(Solution().transpose(matrix))
