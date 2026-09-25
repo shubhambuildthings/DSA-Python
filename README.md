@@ -40,5 +40,8 @@ DSA-Python/
 │
 ├── Arrays/
 │   └── Python solutions
-│
+├── Math/
+│   └── Python solutions
+├── Strings/
+│   └── Python solutions
 └── README.md
