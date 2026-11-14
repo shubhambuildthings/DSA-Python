@@ -36,12 +36,11 @@ Most problems in this repository are from:
 ## 📁 Repository Structure
 
 ```text
-DSA-Python/
-│
-├── Arrays/
-│   └── Python solutions
-├── Math/
-│   └── Python solutions
-├── Strings/
-│   └── Python solutions
-└── README.md
+├── Arrays/      # Array-based LeetCode problems
+├── Greedy/      # Greedy algorithm solutions
+├── Heaps/       # Heap / Priority Queue problems
+├── Math/        # Mathematical & number theory problems
+├── Pandas/      # SQL / Pandas data manipulation problems
+├── String/      # String manipulation problems
+├── Tree/        # Tree & Linked List problems
+└── README.md    # Repository overview and structure
